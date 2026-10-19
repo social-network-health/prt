@@ -1,6 +1,6 @@
 # Personal Relationship Toolkit (PRT)
 
-Note - this was a year-long effort to prototype an application that ultimately needed a conformance suite to stay on track, and real user feedback to go anywhere - those things were developed in the [Personal Network Toolkit](https://github.com/social-network-health/personal_network_toolkit) and this repository is now retired but still being harvested for some value before being removed.
+Note - this was a year-long effort to prototype an application that ultimately needed a conformance suite to stay on track, and real user feedback to go anywhere - those things were developed in the [Personal Network Toolkit](https://github.com/social-network-health/personal_network_toolkit) and this repository is now retired and archived. Its successor is [prm](https://github.com/social-network-health/prm), the Personal Relationship Manager, which carries forward what was worth keeping from here.
 
 ## Quick Start for Developers
 
